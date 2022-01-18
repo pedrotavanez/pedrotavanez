@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pedrotavanez
+- I'm, interested in 🐍
+- 📜 I’m currently learning React
